@@ -1,0 +1,179 @@
+.n1 {
+    font-size: 30px !important;
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -70px;
+}
+
+.close{
+
+margin-left: -80px;
+
+}
+
+.n2 {
+
+    background-color: black !important;
+     padding-left: 70px;
+    /* margin-left: -100px; */
+    margin-top: 50px;
+    border-radius: 10px; 
+    margin-left: 60px;
+}
+
+.n3 {
+    margin-top: 20px;
+    font-weight: 625;
+    font-size: 30px;
+    color: white;
+    margin-left: 130px;
+}
+
+.n4 {
+    margin-top: 20px;
+    border-radius: 100px !important;
+    padding-left: 50px;
+    text-align: center !important;
+    border-color: black;
+    margin-right: 75px;
+
+
+
+}
+
+.n5 {
+
+    font-size: 15px;
+    text-align: center;
+    padding-right: 40px;
+
+    font-weight: 500 !important;
+
+}
+
+.n6 {
+    text-align: center;
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+    /* margin-right: -24px; */
+   
+
+
+}
+
+.n7 {
+    margin-top: 20px;
+}
+
+.g1 {
+    color: white;
+    width: 300px;
+    margin-left: 60px;
+}
+
+.c1 {
+
+    margin-left: 80px;
+    margin-right: 130px;
+    background-color: black;
+    color:grey;
+    border-color: black !important;
+
+
+}
+
+.c1:active{
+
+    background-color: blue;
+}
+
+.c2 {
+
+    background-color: black;
+    color: white;
+    font-family: 1200 !important;
+}
+
+
+.f1 {
+
+    text-align: center;
+    margin-top: 28px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-weight: 600 !important;
+    border-radius: 100px !important;
+    margin-right: 60px ;
+
+
+}
+
+.f2 {
+    text-align: center;
+    margin-right: 50px;
+    margin-top: 28px;
+    padding-left: 78px;
+    padding-right: 78px;
+    font-weight: 600 !important;
+    border-radius: 100px !important;
+    background-color: black;
+    color: white;
+    font-family: TwitterChirp;
+}
+
+.f2:hover {
+
+    background: linear-gradient(#181919, #181919);
+    color: white;
+}
+
+.m1 {
+
+    margin-top: 40px;
+    color: grey;
+    margin-right: 80px;
+    font-size: 14px;
+    padding-bottom: 50px;
+
+}
+
+.m2 {
+
+    text-decoration: none;
+
+}
+
+.m2:hover {
+    text-decoration: underline;
+
+}
+
+.clsb1 {
+    background-color: white;
+
+}
+.or{
+
+    color: white;
+    /* text-align: center;
+    margin-left: -50px;
+    padding-left: 30px; */
+}
+
+.k1 {
+    color: white;
+    width: 120px;
+    padding-left: -70px;
+   
+   
+}
+.k2{
+
+    color: white;
+    width: 120px;
+    margin-right: -90px;
+    /* padding-right: -100px;
+    padding-left: 10px; */
+
+}

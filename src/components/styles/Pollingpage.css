@@ -1,0 +1,45 @@
+.imgbutton{
+
+  border-radius: 50%;
+  border: none;
+  color: #1D9BF0;
+  margin-left: 1px !important;
+}
+
+.imgbutton1{
+
+
+  border-radius: 50%;
+  border: none;
+  color: #1D9BF0;
+  margin-left: 100% !important;
+  
+  
+  
+}
+
+.post{
+  padding-right: 12% !important;
+  padding-left: 12% !important;
+  padding-top: 1% !important;
+  padding-bottom:1% !important;
+  margin-left: 100px !important;
+  background-color: aqua !important;
+  color: black!important;
+}
+.in1{
+  padding-right: 300px !important;
+}
+.rmvpoll{
+  margin-top: 10px !important;
+  background-color: pink !important;
+  color:red !important;
+  border-radius: 5px !important;
+}
+.draft{
+  background-color: aqua !important;
+}
+.choice1{
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}

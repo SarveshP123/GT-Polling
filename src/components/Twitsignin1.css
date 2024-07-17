@@ -1,0 +1,196 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family: Arial, sans-serif;
+
+}
+
+
+
+.twit-signin-container {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    background-color: black;
+
+    overflow: hidden;
+
+}
+
+
+
+.twit-signin-content {
+
+    width: 100%;
+
+    max-width: 1200px;
+
+}
+
+
+
+.twit-logo-container {
+
+    text-align: center;
+
+}
+
+
+
+.twit-logo {
+
+    font-size: 15rem;
+
+    color: #ebf1f5;
+
+}
+
+
+
+.twit-signin-form-container {
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+
+
+.twit-signin-card {
+
+    background-color: #0f0f0f;
+
+    border: none;
+
+    border-radius: 8px;
+
+    padding: 20px;
+
+    max-width: 400px;
+
+    width: 100%;
+
+}
+
+
+
+.twit-signin-title {
+
+    text-align: center;
+
+    color: white;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.twit-google-btn, .twit-signin-btn, .twit-forgot-btn {
+
+    width: 100%;
+
+    text-align: center;
+
+    margin-bottom: 10px;
+
+    color: black;
+
+    font-weight: bold;
+
+}
+
+
+
+.twit-google-btn-text {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+}
+
+.twit-signup-text {
+
+    text-align: center;
+
+    color: white;
+
+}
+
+
+
+.twit-signup-link {
+
+    color: #e9ebec;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+
+
+.twit-signup-link:hover {
+
+    text-decoration: underline;
+
+}
+
+
+
+@media (max-width: 768px) {
+
+    .twit-signin-content {
+
+        flex-direction: column;
+
+        text-align: center;
+
+    }
+
+
+
+    .twit-logo {
+
+        font-size: 4rem;
+
+    }
+
+
+
+    .twit-signin-card {
+
+        margin: 10px;
+
+    }
+
+
+
+    .twit-signin-title {
+
+        font-size: 1.5rem;
+
+    }
+
+
+
+    .twit-google-btn, .twit-signin-btn, .twit-forgot-btn {
+
+        width: calc(100% - 40px);
+
+    }
+}

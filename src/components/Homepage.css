@@ -1,0 +1,376 @@
+/*Posting page*/
+.col1 {
+    /* margin-left: 135px; */
+    margin-right: 120px ;
+    margin-top: 5px !important;
+}
+
+.b1 {
+
+    border-radius: 30px !important;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.b2 {
+    font-size: 30px;
+    color: #E7E7E8;
+}
+
+.b3 {
+    font-size: 20px !important;
+    color: #E7E7E8;
+}
+
+.b4 {
+    font-size: 27px;
+}
+
+.b5 {
+    color: white;
+    padding-top: 9px !important;
+    padding-bottom: 9px !important;
+    border-radius: 30px !important;
+
+}
+
+.b5:hover {
+    background-color: black !important;
+    font-weight: 1000% !important;
+    border-radius: 30px !important;
+}
+
+.b6 {
+    color: white !important;
+    font-weight: 700;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+
+.b8 {
+    background-color: #1A8CD8;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    margin-top: 10px !important;
+    border-radius: 20px !important;
+}
+
+/*Col2*/
+
+.w1:hover {
+    background-color: #E7E7E8 !important;
+}
+
+.w2 {
+    font-size: 20px;
+    padding-left: 80px !important;
+    padding-right: 100px !important;
+}
+
+.w3 {
+    margin-left: -30px;
+    font-size: 20px;
+    padding-left: 100px !important;
+    padding-right: 30px !important;
+}
+
+.w4 {
+    margin-left: 10px !important;
+    border-radius: 40px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.w4:hover {
+    background-color: #eaeaef !important;
+    border-radius: 80px !important;
+}
+
+.w5 {
+    margin-left: 30px;
+    padding-left: 20px !important;
+}
+.card1{
+    margin-top: 3% !important;
+         margin-left: -50px; 
+       
+    padding-bottom: 400px;
+    }
+   .footer{
+    padding-left: 10px !important;
+    padding-right: 20px !important;
+   }
+
+
+@media only screen and (max-width: 768px) {
+    .card1{
+        max-width: 500px !important;
+      text-align: center;
+            margin-top: 3% !important;
+                margin-left: -40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100vh;
+           }
+            .w2 {
+                font-size: 20px;
+                padding-left: 10px !important;
+                padding-right: 20px !important;
+            }
+}
+
+/* Col 3 */
+.a9 {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.in {
+    color: white;
+    width: 150px;
+    font-weight: 800;
+}
+
+.a12 {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.a13 {
+    height: 50px;
+    padding-left: -50px;
+}
+
+.all {
+    padding-right: 50px !important;
+}
+
+.ca {
+    border-color: white;
+    padding-right: 30px !important;
+}
+
+.ch {
+
+    padding-left: 10px !important;
+    padding-right: 230px !important;
+    padding-top: 20px;
+    border-radius: 30px;
+
+}
+
+.icon1 {
+    margin-left: -70px !important;
+}
+
+.all {
+    margin-left: 0px;
+    margin-top: -70px !important;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.sp {
+    font-size: 10px;
+    margin-left: 90px;
+    margin-top: -30px;
+    font-weight: 700;
+}
+
+.se {
+    background-color: #EFF3F4 !important;
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    border-radius: 30px !important;
+    margin-bottom: 20px !important;
+
+}
+
+.a11 {
+    background-color: black !important;
+    color: white !important;
+    border-radius: 30px !important;
+    font-weight: bolder !important;
+}
+
+.box {
+    margin-top: 10px !important;
+    color: aliceblue !important;
+}
+.foot1{
+    color:white !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .box {
+      display: none;
+    }
+    .foot1{
+        display:none;
+    }
+}
+.po {
+    font-weight: 600;
+}
+
+.ci {
+    margin-right: -5px !important;
+}
+
+.bos {
+    font-size: 10px;
+    margin-right: 100px;
+    margin-top: -40px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.ok {
+    margin-left: -30px;
+}
+
+.op1 {
+    margin-left: 5px;
+}
+
+.ok:hover {
+    border-radius: 30px !important;
+}
+
+.sp {
+    margin-bottom: 20px;
+    margin-right: 20px !important;
+}
+
+.txt {
+    margin-left: 30px !important;
+    font-weight: 100;
+    font-size: 13px;
+    margin-bottom: 5px !important;
+}
+
+.rcb {
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.three {
+    margin-left: 300px;
+    margin-top: -100px;
+}
+
+.boo {
+    border-color: whitesmoke !important;
+}
+
+.enti {
+    margin-left: 30px !important;
+    font-weight: 100;
+    font-size: 13px;
+    margin-bottom: 20px !important;
+}
+
+.koo {
+    margin-top: -30px;
+    margin-left: -30px;
+}
+
+.post {
+    margin-left: 15px !important;
+    font-weight: 100;
+    font-size: 13px;
+    margin-bottom: 5px !important;
+}
+
+.chc {
+    margin-right: 30px !important;
+}
+
+.rh {
+    border-color: grey;
+}
+
+.mobileaa1{
+    color: #ebf1f5;
+}
+.mobileaa2{
+    color: #ebf1f5;
+    height: 40px !important;
+}
+
+@media only screen and (max-width: 768px) {
+    .box {
+      display: none;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    .india{
+      display: none;
+      
+    }
+    .foot1{
+     margin-top: 250px !important;
+    }
+    .foot{
+      display: none;
+    }
+    .foot{
+      color: white !important;
+      background-color: white !important;
+    }
+      .mobileaa1{
+          color: white !important;
+          background-color: white !important;
+      }
+  .mobileaa2{
+      color: white !important;
+      font-size: 35px;
+      background-color: white !important;
+  }
+  .mobilea2{
+      font-size: 30px;
+  }
+  .mobilea3{
+      font-size: 25px;
+  }
+  .mobilea1{
+      border-radius: 20px;
+  }
+  }
+  
+  @media only screen and (max-width: 768px) {
+      .india1{
+          display: none;
+      }
+      
+  }
+
+  @media only screen and (min-width: 768px){
+    .b8{
+      padding-left: -60px !important;
+    }
+  }
+  .mobilea1{
+    font-size: 25px !important;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+    background-color:whitesmoke !important;
+    border-radius: 30px !important;
+  }
+ /* .india{
+    padding
+ } */

@@ -1,0 +1,40 @@
+/* @media only screen and (min-width: 768px) {
+  .india{
+    display: none;
+    
+  }
+  .foot1{
+   margin-top: 250px !important;
+  }
+  .foot{
+    display: none;
+  }
+  .foot{
+    color: white !important;
+    background-color: white !important;
+  }
+    .mobileaa1{
+        color: white !important;
+        background-color: white !important;
+    }
+.mobileaa2{
+    color: white !important;
+    font-size: 35px;
+    background-color: white !important;
+}
+.mobilea2{
+    font-size: 30px;
+}
+.mobilea3{
+    font-size: 25px;
+}
+.mobilea1{
+    border-radius: 20px;
+}
+}
+
+@media only screen and (max-width: 768px) {
+    .india1{
+        display: none;
+    }
+} */

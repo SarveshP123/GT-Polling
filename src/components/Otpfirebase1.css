@@ -1,0 +1,45 @@
+.otpverf{
+    font-weight: 500 !important;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.card100{
+    margin:auto;
+    margin-top: 150px !important; 
+    width: 380px !important;
+    /* margin-left: 600px; */
+ }
+ .col100{
+    text-align: center !important;
+ }
+.mobile{
+ margin-left: -100px !important;
+font-size: 23px;
+font-weight: 500;
+}
+.mobile2{
+    margin-left: -220px !important;
+    font-size: 23px;
+    font-weight: 500;
+}
+.form55{
+    background-color: blue;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  color:white;
+  border-radius: 30px;
+  font-weight: 500;
+}
+.form55:hover{
+    background-color: blue;
+}
+@media (max-width: 768px){
+    .card100{
+        margin: auto;
+        margin-top: 150px !important; 
+        width: 350px !important;
+        /* margin-left: 600px; */
+     }
+}

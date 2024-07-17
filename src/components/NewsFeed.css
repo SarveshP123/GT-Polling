@@ -1,0 +1,78 @@
+.in1 {
+    width: 100%;
+    min-height: 30px; /* Minimum height for the textarea */
+    max-height: 200px; /* Maximum height before scrolling */
+    padding: 5px;
+    font-size: 16px;
+    resize: none; /* Disable manual resize */
+    overflow: hidden; /* Hide scrollbar */
+    box-sizing: border-box; /* Include padding and border in width/height */
+    transition: height 0.2s; /* Smooth transition effect */
+  }
+  
+.in1:hover{
+    border: none !important;
+}
+.cg1{
+    font-size: 30px;
+}
+
+.in1:active{
+    border: none !important;
+}
+.imgbutton{
+
+    border-radius: 50%;
+    border: none;
+    color: #1D9BF0;
+    margin-left: 1px !important;
+}
+
+.imgbutton1{
+
+
+    border-radius: 50%;
+    border: none;
+    color: #1D9BF0;
+    margin-left: 100% !important;
+    
+    
+    
+}
+
+
+.post{
+
+    padding-right: 12% !important;
+    padding-left: 12% !important;
+    padding-top: 1% !important;
+    padding-bottom:1% !important;
+    margin-left: 40% !important;
+}
+.r1{
+
+    padding-left: 2%;
+    padding-right: 10%;
+    margin-top: 3%;
+    background-color: white !important;
+    color: #1D9BF0;
+    border:none;
+    font-weight:500;
+    margin-left: -3%;
+  }
+  .r1:hover{
+  background-color: lightblue;
+  color: #1D9BF0;
+  
+  
+  }
+  .w1:hover {
+    background-color: #E7E7E8 !important;
+}
+
+.w3 {
+    margin-left: -30px;
+    font-size: 20px;
+    padding-left: 100px !important;
+    padding-right: 30px !important;
+}
